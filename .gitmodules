@@ -1,3 +1,4 @@
 [submodule "examples"]
 	path = examples
+        update = none
 	url = ../shuttle-examples.git
